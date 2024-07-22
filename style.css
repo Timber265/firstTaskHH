@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.table__content {
+    width: 100%;
+
+}
+
+.content {
+    max-width: 1200px;
+    margin: 2% auto;
+}
+
+table, th, td {
+    border: 1px solid gray;
+    height: 50px;
+    border-collapse: collapse;
+    padding: 20px;
+}
+
+.tableID {
+    color: #fff;
+    background-color: darkblue;
+}
+
+.tableSymbol {
+    color: #fff;
+    background-color: green;
+}
+
+.tableName {
+    color: #fff;
+    background-color: green;
+}
